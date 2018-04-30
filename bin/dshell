@@ -1,7 +1,0 @@
-#!/usr/bin/env python
-import dshell
-
-def main():	
-	ds = dshell.dshell()
-
-	ds.cmdloop()
