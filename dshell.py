@@ -1,1 +1,0 @@
-../Dolphin/test/scripts/dshell.py
