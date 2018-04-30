@@ -1,0 +1,7 @@
+#!/usr/bin/env python
+import dshell
+
+	
+ds = dshell.dshell()
+
+ds.cmdloop()
